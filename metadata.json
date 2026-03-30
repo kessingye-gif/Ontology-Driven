@@ -1,0 +1,5 @@
+{
+  "name": "Ontology Model Editor",
+  "description": "A meta-model driven B-end application framework featuring object, behavior, rule, event, and scene models.",
+  "requestFramePermissions": []
+}
